@@ -16,7 +16,7 @@ Last Versions: 1.1.0 (1st June 2022),  1.0.0 (31th August 2021, G3 paper version
 
   ## Overview
   
-EnvRtype (pronounced as *env-R-type* or you can say just **envirotype**) is a R package to interplay Quantitative Genetics and Ecophysiology into a *easy* way.
+EnvRtype (pronounced as *env-R-type* or you can say just **envirotype**) is a R package to support the biometry enriched with environmental data into a *easy* way.
 Since its conception in the begining of 2020, and its first publication in 2021, the envirotyping pipeline provided by EnvRtype consists in three modules (1 - Environmental Sensing, 2- Macro-Environmental Characterization and 3 - Enviromic Similarity and Phenotype Prediction). Collectively, the EnvRtyping functions generate a simple workflow to collect, process and integrates envirotyping data into several fields of agricultural research, specially for predictive breeding that may include the use of genomic x enviromic relatedness information.
   
   <img align="center" src="/fig/workflow_2.png" width="90%" height="90%">
