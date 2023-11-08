@@ -1,4 +1,4 @@
-# Envirotype [(EnvRtype):](https://github.com/allogamous/EnvRtype/blob/master/README.md)
+#  [EnvRtype:](https://github.com/allogamous/EnvRtype/blob/master/README.md) - Envirotype
 <img align="left" src="/fig/logo3_300.png" width="20%" height="20%">
 
 ### A Envirotyping Pipeline in R to Interplat Quantitative Genetics and Ecophysiology
