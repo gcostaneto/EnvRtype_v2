@@ -1,4 +1,4 @@
-# Envirotype [(EnvRtype): Envirotyping Tools in R](https://github.com/allogamous/EnvRtype/blob/master/README.md)
+# Envirotype [(EnvRtype):](https://github.com/allogamous/EnvRtype/blob/master/README.md) Envirotyping pipeline in R
 <img align="left" src="/fig/logo3_300.png" width="20%" height="20%">
 
 ### A R Interplay between Quantitative Genetics and Ecophysiology for GxE analysis
