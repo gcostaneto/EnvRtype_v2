@@ -1,7 +1,7 @@
-# Envirotype [(EnvRtype):](https://github.com/allogamous/EnvRtype/blob/master/README.md) Envirotyping pipeline in R
+# Envirotype [(EnvRtype):](https://github.com/allogamous/EnvRtype/blob/master/README.md)
 <img align="left" src="/fig/logo3_300.png" width="20%" height="20%">
 
-### A R Interplay between Quantitative Genetics and Ecophysiology for GxE analysis
+### A Envirotyping Pipeline in R to Interplat Quantitative Genetics and Ecophysiology
 
 
 #### **Current Version**: 1.2.0 (1st Dec 2023)
