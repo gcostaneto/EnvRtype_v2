@@ -1,7 +1,7 @@
 #  [EnvRtype:](https://github.com/allogamous/EnvRtype/blob/master/README.md) - Envirotype
 <img align="left" src="/fig/logo3_300.png" width="20%" height="20%">
 
-### A Envirotyping Pipeline in R to Interplat Quantitative Genetics and Ecophysiology
+### An Envirotyping Pipeline in R to Interplay Quantitative Genetics and Ecophysiology
 
 
 #### **Current Version**: 1.2.0 (1st Dec 2023)
