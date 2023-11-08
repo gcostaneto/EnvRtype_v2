@@ -44,15 +44,9 @@ file.rename("EnvRtype-master", "EnvRtype")
 shell("R CMD build EnvRtype") # or system("R CMD build EnvRtype")
 install.packages("EnvRtype_1.1.0.tar.gz", repos = NULL, type="source") # Make sure to use the current verision
 ```
-**Developer**
+**Developer & Maintence**
 
- * [Germano Costa Neto](https://github.com/gcostaneto), University of Sao Paulo/ Cornell University
-
-
-**Maintence**
-
- * [Germano Costa Neto](https://github.com/gcostaneto)
-
+ * [Germano Costa Neto](https://github.com/gcostaneto), Cornell University
 
 
 ## What is "Envirotyping"?
