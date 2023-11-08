@@ -6,8 +6,7 @@
 
 #### **Current Version**: 1.2.0 (1st Dec 2023)
 
-Last Version: 1.1.0 (1st June 2022)
-Last Version: 1.0.0 (31th August 2021)
+Last Versions: 1.1.0 (1st June 2022),  1.0.0 (31th August 2021, G3 paper version)
 
 <div id="menu" />
   
