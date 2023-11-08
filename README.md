@@ -1,5 +1,7 @@
-#  [EnvRtype:](https://github.com/allogamous/EnvRtype/blob/master/README.md) - A R package to interplay quantitative genomics and enviromics
+#  [EnvRtype:](https://github.com/allogamous/EnvRtype/blob/master/README.md) - Envirotyping in R
 <img align="left" src="/fig/logo3_300.png" width="20%" height="20%">
+
+##  A R package to interplay quantitative genomics and enviromics
 
 #### **Current Version**: 1.2.0 (1st Dec 2023)
 
